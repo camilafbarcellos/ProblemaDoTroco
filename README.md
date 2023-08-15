@@ -24,4 +24,4 @@ O Algoritmo Guloso aborda o problema escolhendo a maior moeda disponível sempre
 
 **Aviso:** A abordagem de Algoritmo Guloso pode não funcionar em todos os cenários, especialmente quando as moedas disponíveis não formam um sistema canônico (como quando a moeda de valor 1 não está presente). Certifique-se de considerar os resultados cuidadosamente e ajustar as moedas disponíveis conforme necessário.
 
-_© Camila Barcellos 2023 - IFSul_
+_© [Camila Barcellos](https://github.com/camilafbarcellos) 2023 - IFSul_
